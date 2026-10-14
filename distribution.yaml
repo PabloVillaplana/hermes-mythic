@@ -1,5 +1,5 @@
 name: mythic
-version: 0.2.0
+version: 0.3.0
 description: "Mythic Byte (company): internal tooling, team standards, proposals and non-Percy client work"
 hermes_requires: ">=0.12.0"
 author: "Juan Pablo Villaplana"
