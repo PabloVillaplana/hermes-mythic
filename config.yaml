@@ -10,7 +10,7 @@ model:
 terminal:
   backend: "local"
   # Where tool commands start. Absolute path — "." would mean "wherever hermes was launched".
-  cwd: "/Users/pablovillaplana/Proyectos"   # TODO(confirm): point at this profile's project folder
+  cwd: "/Users/pablovillaplana/Mythibyte"
   # "auto" = tools use your real HOME (git, gh, ssh, composer, pnpm credentials are shared
   # across profiles). Use "profile" only if this profile needs separate CLI identities.
   home_mode: "auto"
