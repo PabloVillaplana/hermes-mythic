@@ -1,0 +1,12 @@
+name: mythic
+version: 0.1.0
+description: "Mythic work (scope to be defined)"
+hermes_requires: ">=0.12.0"
+author: "Juan Pablo Villaplana"
+license: "UNLICENSED"
+
+env_requires:
+  - name: COMPOSIO_API_KEY
+    description: "Composio Connect API key for the mythic environment only (its own Composio user/account, with only the apps this profile needs)"
+    required: false
+    default: ""
